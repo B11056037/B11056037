@@ -14,6 +14,7 @@ document.write("12.3 * 10 % 5 = " + 12.3 * 10 % 5);
 document.write("<br>");
 document.write("\'a\' >\'Z\' = ");
 document.write('a' > 'Z');
+S
 document.write("<br>");
 document.write("~0x0005 = " + ~0x0005);
 document.write("<br>");
