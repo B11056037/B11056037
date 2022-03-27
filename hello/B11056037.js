@@ -35,4 +35,4 @@ document.write("<td class=content>7*8=56</td>");
 document.write("<td class=content>7*11=77</td>");
 document.write("<td class=content>7*14=98</td>");
 document.write("<td class=content>7*17=119</td>");
-document.write("<td class=content>7*20=140</td>");
+document.write("<td class=content>7*20=140</td><table></table>");
