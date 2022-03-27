@@ -1,6 +1,6 @@
-document.write("<table>");
-document.write("<caption id=tableCaption><h1>MIS快餐店價格表</h1></caption>");
-document.write("<tr><th></th>");
+document.write("<table  id=tableCaption>");
+document.write("<caption><h1>MIS快餐店價格表</h1></caption>");
+document.write("<tr><th id=none></th>");
 document.write("<th id=tableTitle>5號餐8元</th>");
 document.write("<th id=tableTitle>4號餐11元</th>");
 document.write("<th id=tableTitle>3號餐14元</th>");
