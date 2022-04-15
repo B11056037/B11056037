@@ -1,8 +1,4 @@
-
-
-<!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -48,21 +44,17 @@
             color: green;
             font-family: Arial;
             font-size: 18px;
-        }
-        
+        }      
         #tableTitle {
             font-weight: bolder;
             font-size: 18px;
             color: purple;
             text-align: center
-        }
-        
+        }        
         a {
             color: black
         }
     </style>
-
-
 </head>
 
 <body>
